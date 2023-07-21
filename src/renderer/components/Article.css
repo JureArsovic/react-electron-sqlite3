@@ -1,0 +1,25 @@
+.article-item-container {
+    border: 3px solid #000;
+    border-radius: 18px;
+    padding: 15px; /* Adjust the padding to change the height and width of the border */
+    margin-bottom: 25px;
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 10px; /* Adjust the right margin as needed */
+    display: inline-block;
+  }
+  
+  .view-details-button {
+    background-color: #000;
+    color: #fff;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .view-details-button:hover {
+    background-color: #333;
+  }
+  

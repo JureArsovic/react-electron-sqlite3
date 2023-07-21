@@ -1,0 +1,45 @@
+.confirm-button {
+  padding: 0.5rem 1rem;
+  margin: 0.5rem;
+  background-color: #888888;
+  color: #f8f8f8;
+  border: none;
+  border-radius: 4px;
+  text-decoration: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.confirm-button:hover {
+  background-color: #2798448f;
+}
+
+.confirm-search-form {
+  display: flex;
+  justify-content: center;
+}
+
+.confirm-search-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 10px;
+}
+
+.confirm-search-bar {
+  width: 400px;
+  height: 30px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 5px;
+}
+
+.confirm-search-button {
+  width: 150px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 5px;
+}
